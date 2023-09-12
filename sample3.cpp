@@ -7,6 +7,7 @@ int main() {
   cout << "Type a number: ";
   cin >> x;
   cout << "Type another number: ";
+  cout<<"sdm repositiry";
   cin >> y;
   sum = x + y;
   cout << "Sum is: " << sum;

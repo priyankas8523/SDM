@@ -1,0 +1,78 @@
+Title:
+System Reqruiement Spefication for Online Exam portal for CDAC
+
+Team:
+CDAC,Student,Exam center,
+
+Objective (Purpose):
+Online Exam portal for CDAC is intended to provide portal for exam conduction facility
+ for various CDAC center.
+
+Scope:
+*This portal allows varios exam center to conduct exam and allow student to give exam.
+*This portal will be able to reduce paperwork and also able to reduce manpower.
+*This portal will be able to display the result of the exam.
+*This portal should allow students evaluate their performances on highlighting
+their weak and strong areas.
+*The content used in the Online Examination should be new and updated.
+*Students can study at home with help of example independently.
+*Online system should able to reduce work load of of teachers.
+*By using this online system, students should able to register itself.
+*System should not provide the facility of copy paste while attempting questions on the site.
+
+A)Functional Requirements
+
+ 1.Administrater aspect
+  i)Logging into the system
+  ii)Accepting registration of candidates
+  iii)Adding/editing/deleting the question
+  iv)Creating questions
+  v)Posting question
+  vi)Posting multiple option to respective question
+  vii)Giving correct answer
+  viii)Time limit
+  ix)Set marks
+  x)Negative marks if required
+
+ 2.Student Aspect
+  i)Requesting registration
+  ii)Logging into the system
+  iii)Selecting the questing
+  iv)Appearing for the examination
+  v)Reviewing the given response
+
+
+B)NonFunctional Requirement:
+
+i)Security:  
+ 1)Student who have valid id and password only they can login into the exam
+ 2)Id and password of student must be unique and must contain specified length of char or digit
+ 3)Portal should maintain timer while studnet attempting the exam. after that particular timing 
+   exam should be submitted and student must log
+   out automatically  .
+ 4) The private data of the administration should be secured.
+
+ii)Reliability:
+  System should able to recover itself if there is any crash and failure occur to the application.
+
+iii)Availability:
+  Application should be available 24/7 
+
+iv)Maintenance:
+  Some IT operations can easily monitor and configure system using Administrative
+  Tools provided by Server.
+
+v)Performance:
+  Performance of the student in the online examination system.
+
+vi)Integrity:
+   prevent cheating in online exams is to communicate clearly and consistently with your learners
+   about what is expected of them and what is allowed and not allowed during the exam.
+
+
+
+
+
+
+
+  

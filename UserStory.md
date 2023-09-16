@@ -1,4 +1,5 @@
 USER STORIES FOR ONLINE EXAMINATION SYSTEM
+
 1. Student
 a. As a student I want to view the attempted, non-attempted, marked for review and not visited questions on a pane in a corner of the screen so that I will be able to navigate to the questions easily without wastage of time. 
 b. As a student I need a calculator on the screen so that I can access it for complex calculations there itself and no need to use handheld calculators.
@@ -16,6 +17,14 @@ b. As a teacher I want to generate the Instruction Page which will stay compulso
 c. As a teacher I want to  
 
 3. Exam conducting and analysing authority
-a. As the exam
+a. As the exam conducting authority I want genuine, discrete and detailed analysis of every student's performance in the examination.
+b. As the exam conducting authority I want AI based audio and video proctored system to avoid malicious acts during examination.
+c. As the exam conducting authority, I want safe and secure student examination data analysis and storage system so that the students get the genuine report of their performance in the examination.
+d. As the exam conducting and analysis authority, I want the proper marks calculation and allocation for every student appearing for the examination.
+  
+
 4. Exam centre
+   
 5. Field/instititute for whom exam is being conducted
+ a. As the Institute, I want genuine results of the students for our further hiring/admission process. Because we can't compromise on our students' quality in aur institution. 
+   

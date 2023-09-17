@@ -6,9 +6,9 @@ a) As a student I want to view the attempted, non-attempted, marked for review a
 
 b) As a student I need a calculator on the screen so that I can access it for complex calculations there itself and no need to use handheld calculators.
 
-c) As a student I want a chat option for technical support during examination so that I can clear my queries at the same time easily without running out on time.
+c) As a student I want a chat option for technical support during examination so that I can contact the exam support there itself easily without running out on time.
 
-d) As a student I want instruction that I can check all information prior to examination.
+d) As a student I want instructions page in the beginning of examination which will be containing all basic rules about examination and marking scheme.
 
 e) As a student I want a question tag feature so that I can filter my attempted and un-attempted questions.
 
@@ -24,7 +24,7 @@ a) As a teacher, I want to generate weekly assessment report, so that I can eval
 
 b) As a teacher I want to generate the Instruction Page which will stay compulsorily open for 5 minutes for students to instruct the basic rules and regulations and marking scheme of the examination.
 
-c) As a teacher I want to  
+c) As a teacher I want a proctor system to carry out diciplinary functions during examination and so that I can get genuine results.
 
 
 
@@ -40,9 +40,6 @@ d) As the exam conducting and analysis authority, I want the proper marks calcul
   
 
 
-## 4. Exam centre
-   
-## 5. Field/instititute for whom exam is being conducted
-   
+## 4. Institute or field for which exam is being conducted 
 a) As the Institute, I want genuine results of the students for our further hiring/admission process. Because we can't compromise on our students' quality in aur institution. 
    

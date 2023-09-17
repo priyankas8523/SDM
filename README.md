@@ -1,12 +1,20 @@
-# SDM
+# ECOMMERCE WEBSITE
 ### Requirements of Customers
-1) Highly Responsive Mobilesite
-2) Fast Checkout Process
-3) Pricing Policy
-4) Delivery Status Checking
-5) Refund Policy 
+1) Reccomendation of products as per customer's likings
+2) User friendly website
+3) Customer Support
+4) Easier and lesser Checkout steps
+5) Secure Payment Gateway
+6) Mobile friendly website
+7) Live delivery Status and Tracking 
+8) Proper UI for finding products easily
+9) Products classified and sorted in listings which will make shopping easier and quick.
+10) Price, product category etc filters 
+11) Voice search and image search
+12) Language independent searching system
 
 ### Requirement of delivery boy
 1) Tracking system
 2) Delivery details
 3) Feature to update delivery status after product got delivered
+
